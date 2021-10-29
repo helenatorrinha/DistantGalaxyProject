@@ -1,0 +1,11 @@
+﻿  Main.cpp
+<<<<<<< HEAD
+C:\Users\dumbr\Documents\Distant-Galaxy\Distant Galaxy\Main.cpp(46,12): warning C4553: '==': result of expression not used; did you intend '='?
+  Distant Galaxy.vcxproj -> C:\Users\dumbr\Documents\Distant-Galaxy\Distant Galaxy\Debug\Distant Galaxy.exe
+=======
+C:\Users\enesc\Documents\Distant-Galaxy\Distant Galaxy\Main.cpp(46,12): warning C4553: '==': result of expression not used; did you intend '='?
+  Map.cpp
+  Generating Code...
+  LINK : C:\Users\enesc\Documents\Distant-Galaxy\Distant Galaxy\Debug\Distant Galaxy.exe not found or not built by the last incremental link; performing full link
+  Distant Galaxy.vcxproj -> C:\Users\enesc\Documents\Distant-Galaxy\Distant Galaxy\Debug\Distant Galaxy.exe
+>>>>>>> 23bfb7b62045b92f2bde77d7195f54a553141e1e
